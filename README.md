@@ -1,2 +1,2 @@
 # wwm-uicons-webp
- webp versions of uicons
+ webp versions of wwm-uicons
