@@ -1,4 +1,8 @@
 {
+  "device": [
+    "0.webp",
+    "1.webp"
+  ],
   "gym": [
     "0_ar.webp",
     "0_b_ar.webp",
@@ -8293,6 +8297,10 @@
       "808.webp"
     ]
   },
+  "spawnpoint": [
+    "0.webp",
+    "1.webp"
+  ],
   "team": [
     "0.webp",
     "1.webp",
